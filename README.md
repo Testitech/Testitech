@@ -33,7 +33,7 @@ I’m a frontend-focused developer based in Lagos, Nigeria. I love building **in
 
 | Project                 | Stack                           | What it is                                                     | Live        | Repo                                                                                                         |
 | ----------------------- | ------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
-| REST Countries Explorer | React.js, React Router, Tailwind | Browse countries, theme toggle, search/filter                  | `demo-link` | [https://github.com/Testitech/REST-API-Countries](https://github.com/Testitech/RESTful-API-Countries) |              |
+| REST Countries Explorer | React.js, React Router, Tailwind | Browse countries, theme toggle, search/filter                  | `demo-link` | [https://github.com/Testitech/RESTful-API-Countries](https://github.com/Testitech/RESTful-API-Countries) |              |
 
 
 
