@@ -16,9 +16,13 @@ I’m a frontend-focused developer based in Lagos, Nigeria. I love building **in
 ### 🧰 Tech I Use
 
 **Languages & Markup:** HTML, CSS, JavaScript (ES6+), TypeScript
+
 **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
+
 **Backend:** Node.js
+
 **Tools:** Git & GitHub, GitHub Actions, N8n, Zapier, Figma
+
 
 > I value **problem‑solving, creativity, and liveliness** — and I’m big on **accessibility** and **performance**.
 
@@ -29,7 +33,7 @@ I’m a frontend-focused developer based in Lagos, Nigeria. I love building **in
 
 | Project                 | Stack                           | What it is                                                     | Live        | Repo                                                                                                         |
 | ----------------------- | ------------------------------- | -------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
-| REST Countries Explorer | Next.js, TS, Tailwind, REST API | Browse countries, theme toggle, search/filter                  | `demo-link` | [https://github.com/Testitech/REST-Countries-Explorer](https://github.com/Testitech/REST-Countries-API) |              |
+| REST Countries Explorer | React.js, React Router, Tailwind | Browse countries, theme toggle, search/filter                  | `demo-link` | [https://github.com/Testitech/REST-API-Countries](https://github.com/Testitech/RESTful-API-Countries) |              |
 
 
 
